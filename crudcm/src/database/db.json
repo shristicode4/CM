@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "1af0",
+      "FirstName": "wer",
+      "LastName": "tre",
+      "Email": "qwe@gmail.com",
+      "PhoneNumber": "t123",
+      "Company": "sw",
+      "JobTitle": "ew"
+    },
+    {
+      "id": "c77b",
+      "FirstName": "shristi",
+      "LastName": "adhikari",
+      "Email": "shristikaadhikari@gmail.com",
+      "PhoneNumber": "2134",
+      "Company": "trio",
+      "JobTitle": "sde"
+    },
+    {
+      "id": "fc4e",
+      "FirstName": "Thanos",
+      "LastName": "The great",
+      "Email": "thanos@gmail.com",
+      "PhoneNumber": "1234",
+      "Company": "marvel studios",
+      "JobTitle": "Superhero"
+    }
+  ]
+}
