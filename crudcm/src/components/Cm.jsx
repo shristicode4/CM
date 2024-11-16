@@ -25,11 +25,11 @@ const Cm = () => {
         }}
       >
         <Typography variant="h4" component="h1" gutterBottom>
-          Welcome to Customer Management
+          Welcome to Contact Management
         </Typography>
         <Typography variant="body1" paragraph>
-          Manage your customers and users efficiently with our easy-to-use
-          system. You can add, edit, and view users seamlessly.
+          Manage your contacts efficiently with our easy-to-use system. You can
+          add, edit, and view users seamlessly.
         </Typography>
         <Button
           variant="contained"

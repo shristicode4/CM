@@ -20,7 +20,7 @@ const NavBar = () => {
       <Toolbar>
         <Tabs to="/">
           <ManageAccountsIcon style={{ marginRight: "8px" }} />
-          Customer Management
+          Contact Management
         </Tabs>
         <Tabs to="/all">
           <AccountCircleIcon style={{ marginRight: "8px" }} />
